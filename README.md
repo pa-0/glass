@@ -32,7 +32,7 @@ The most important thing to understand is that I chose to use a font set to repl
 
 Aesthetically, my goal was actually to make the transition between my phone and my computer as seamless as possible. The choice of font is (due to a lucky guess) from the same family as Android's (4.4, KitKat) stock font. I also use Nova Launcher and DashClock, which is why Climacons are used (BetterWeather for Dashclock can use Climacons). Feel free to modify to suit your aesthetic inclinations.
 
-I also tried to organize everything using a (sort of) C-like structure. There is a "header" file, "/\@Resources/Settings.inc" that contains all the global variables in use, and each skin also has it's local variables. You can modify any of the variables given, but you shouldn't need to modify the subsequent scripting. Anything there is hardcoded for a specific reason. If you feel adventurous, hack away.
+I also tried to organize everything using a (sort of) C-like structure. There is a "header" file, "Settings.inc" (in the Resources folder) that contains all the global variables in use, and each skin also has it's local variables. You can modify any of the variables given, but you shouldn't need to modify the subsequent scripting. Anything there is hardcoded for a specific reason. If you feel adventurous, hack away.
 
 Finally, the code is largely self-commenting, especially to someone familiar with Rainmeter, but I did try to segment and indent blocks to enhance readability.
 
