@@ -11,8 +11,8 @@
 
 	:Aesthetics
 	TextFont = Roboto Condensed
-	TextColor = 255, 255, 255, 255
 	TextSize = 12
+	TextColor = 255, 255, 255, 255
 	LabelColor = 128, 128, 128, 255
 
 :----------:
