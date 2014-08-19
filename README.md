@@ -7,11 +7,14 @@ Obviously Rainmeter must be installed. The suite was written using the 3.2 Beta 
 The Glass suite requires a few fonts:
 
 Roboto (Regular, Bold, Thin, Light)
+
 Roboto Condensed (Regular, Bold)
+
 Climacons (Regular)
 
-The two Roboto fonts can be found (here)[http://www.google.com/fonts/specimen/Roboto].
-The Climacons font can be found (here)[http://adamwhitcroft.com/climacons/font/].
+The two Roboto fonts can be found [here](http://www.google.com/fonts/specimen/Roboto).
+
+The Climacons font can be found [here](http://adamwhitcroft.com/climacons/font/).
 
 Failing to install Roboto will lead to Rainmeter using a default font. This might not be terrible. Failing to install Climacons will cause weather icons to load as characters instead of icons. This is definitely a terrible thing.
 
@@ -44,10 +47,15 @@ Currently, this suite uses IPInfo to get your location (by external IP address),
 ##Acknowledgments##
 
 Rainmeter forums - Provided exceptional help in the finer aspects of the Rainmeter scripting language.
+
 Kaelri - The Enigma suite provided much of the code and image base for this suite. While everything was rewritten, the Enigma suite provided an exceptional example to base this on.
+
 Xi.Cynx and poiru - Especially helpful in figuring out the power plugin.
 eclectic-tech - Provided feedback when I needed help working around scripting limitations.
-Adam Whitcroft - Created the Climacons icons. You can see his work (here)[http://adamwhitcroft.com/climacons/]. It has a proprietary license.
-Christian Robertson - Created the Roboto family of fonts. You can find his work (here)[http://www.google.com/fonts/specimen/Roboto]. It is licensed under the (Apache License, version 2.0)[http://www.apache.org/licenses/LICENSE-2.0.html].
-OpenWeatherMap - Provides weather information for current and forecast conditions. You can visit them (here)[http://openweathermap.org/].
-IPInfo - Provides location information based on your external IP address. You can find them (here)[http://ipinfo.io/].
+
+Adam Whitcroft - Created the Climacons icons. You can see his work [here](http://adamwhitcroft.com/climacons/). It has a proprietary license.
+
+Christian Robertson - Created the Roboto family of fonts. You can find his work [here](http://www.google.com/fonts/specimen/Roboto). It is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+
+OpenWeatherMap - Provides weather information for current and forecast conditions. You can visit them [here](http://openweathermap.org/).
+IPInfo - Provides location information based on your external IP address. You can find them [here](http://ipinfo.io/).
